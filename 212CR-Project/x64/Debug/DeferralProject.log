@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Easya\Desktop\Semester 2 Deferrals\212 CR\CourseWork\212CR-Deferral-9444441\DeferralProject\Camera.h(22,80): warning C4042: 'ModelViewMatLoc': has bad storage class
+C:\Users\Easya\Desktop\Semester 2 Deferrals\212 CR\CourseWork\212CR-Deferral-9444441\DeferralProject\Camera.h(23,81): warning C4042: 'ModelViewMatLoc': has bad storage class
+C:\Users\Easya\Desktop\Semester 2 Deferrals\212 CR\CourseWork\212CR-Deferral-9444441\DeferralProject\Camera.h(24,79): warning C4042: 'ModelViewMatLoc': has bad storage class
+C:\Users\Easya\Desktop\Semester 2 Deferrals\212 CR\CourseWork\212CR-Deferral-9444441\DeferralProject\main.cpp(32,83): warning C4091: 'static ': ignored on left of 'object' when no variable is declared
+C:\Users\Easya\Desktop\Semester 2 Deferrals\212 CR\CourseWork\212CR-Deferral-9444441\DeferralProject\main.cpp(37,96): warning C4091: 'static ': ignored on left of 'buffer' when no variable is declared
+C:\Users\Easya\Desktop\Semester 2 Deferrals\212 CR\CourseWork\212CR-Deferral-9444441\DeferralProject\main.cpp(398,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+soil.lib(image_helper.obj) : warning LNK4099: PDB 'soil.pdb' was not found with 'soil.lib(image_helper.obj)' or at 'C:\Users\Easya\Desktop\Semester 2 Deferrals\212 CR\CourseWork\212CR-Deferral-9444441\DeferralProject\x64\Debug\soil.pdb'; linking object as if no debug info
+soil.lib(stb_image_aug.obj) : warning LNK4099: PDB 'soil.pdb' was not found with 'soil.lib(stb_image_aug.obj)' or at 'C:\Users\Easya\Desktop\Semester 2 Deferrals\212 CR\CourseWork\212CR-Deferral-9444441\DeferralProject\x64\Debug\soil.pdb'; linking object as if no debug info
+soil.lib(image_DXT.obj) : warning LNK4099: PDB 'soil.pdb' was not found with 'soil.lib(image_DXT.obj)' or at 'C:\Users\Easya\Desktop\Semester 2 Deferrals\212 CR\CourseWork\212CR-Deferral-9444441\DeferralProject\x64\Debug\soil.pdb'; linking object as if no debug info
+soil.lib(SOIL.obj) : warning LNK4099: PDB 'soil.pdb' was not found with 'soil.lib(SOIL.obj)' or at 'C:\Users\Easya\Desktop\Semester 2 Deferrals\212 CR\CourseWork\212CR-Deferral-9444441\DeferralProject\x64\Debug\soil.pdb'; linking object as if no debug info
+  DeferralProject.vcxproj -> C:\Users\Easya\Desktop\Semester 2 Deferrals\212 CR\CourseWork\212CR-Deferral-9444441\DeferralProject\x64\Debug\DeferralProject.exe
